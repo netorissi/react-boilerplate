@@ -2829,10 +2829,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^15.12.3":
-  version "15.12.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.12.3.tgz#2817bf5f25bc82f56579018c53f7d41b1830b1af"
-  integrity sha512-SNt65CPCXvGNDZ3bvk1TQ0Qxoe3y1RKH88+wZ2Uf05dduBCqqFQ76ADP9pbT+Cpvj60SkRppMCh2Zo8tDixqjQ==
+"@types/node@*", "@types/node@^17.0.4":
+  version "17.0.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.4.tgz#fec0ce0526abb6062fd206d72a642811b887a111"
+  integrity sha512-6xwbrW4JJiJLgF+zNypN5wr2ykM9/jHcL7rQ8fZe2vuftggjzZeRSM4OwRc6Xk8qWjwJ99qVHo/JgOGmomWRog==
 
 "@types/node@^14.0.10":
   version "14.14.41"
